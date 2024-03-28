@@ -1,0 +1,12 @@
+[
+  {
+    "ID": 1,
+    "Name": "Jack",
+    "Layer": 6,
+    "MaxHP": 100,
+    "MaxMP": 50,
+    "STR": 20,
+    "DEX": 20,
+    "INT": 10
+  }
+]
